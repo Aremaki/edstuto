@@ -1,6 +1,6 @@
 pip>=21.2.4
 numpy>=1.21
-altair
+altair>=5.0
 pandas
 lifelines==0.26.3
 spacy>=3.1
